@@ -1,6 +1,6 @@
-# infra-alert
+# Infra Alert
 
-Infra Alert
+InfraAlert
 FIRST Girls and Allies STEMathon 2024 Best Project Award
 
 Infra Alert
