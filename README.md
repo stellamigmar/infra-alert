@@ -26,14 +26,19 @@ The app aims to reduce the need for manual patrols, decrease CO2 emissions, and 
 Application
 
 How I built it
+
 The app is built using AI technology trained with Google Teachable Machines to recognize road conditions. It integrates TensorFlow models to analyze user-submitted photos and detect infrastructure issues. The app also features a user-friendly interface where citizens can report problems, track ongoing repairs, and earn rewards for their contributions. The development involves coding for both the AI detection system and the app's user interface, ensuring seamless interaction and accurate reporting.
+
 
 The app interface was built using React Native, multiple libraries, and Expo for deployment.
 
 
 
 Challenges I ran into
+
+
 Some challenges include:
+
 
 Finding many good quality training images for the AI model to accurately detect potholes and differentiate between various types of road damage.
 Integrating the trained tensorflow model into the application.
@@ -41,6 +46,8 @@ Accomplishments that I'm proud of
 I am proud of creating a functional AI model capable of accurately detecting road damage. Successfully developing an app that not only reports issues but also engages the community and offers incentives for participation is a significant achievement.
 
 What I learned
+
+
 I learned about the complexities of training AI models for real-world applications and the importance of user privacy and data security. They also gained insights into developing a community-focused app that incentivizes user engagement and contributes to environmental sustainability.
 
 What's next for Infra Alert
@@ -53,12 +60,18 @@ Implementing additional features to further engage users and promote environment
 Future
 
 Demo
+
+
 App Demo Trained AI Demo
 
 Prototype
+
+
 Figma Prototype
 
 Built With
+
+
 TensorFlow for AI modelling
 Google Teachable Machines for training the AI
 React Native
