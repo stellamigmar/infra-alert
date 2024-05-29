@@ -6,6 +6,7 @@ FIRST Girls and Allies STEMathon 2024 Best Project Award
 Infra Alert
 
 Inspiration
+
 The inspiration behind InfraAlert stems from the need to improve urban infrastructure and create safer roads. We noticed that our city has many issues, from potholes to fallen signs to broken traffic lights, but the greatest issue we saw was the inefficiency of current reporting methods. Our team aimed to develop an app that leverages AI technology to address this issue.
 
 The Problem
