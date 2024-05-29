@@ -30,7 +30,7 @@ The app is built using AI technology trained with Google Teachable Machines to r
 
 The app interface was built using React Native, multiple libraries, and Expo for deployment.
 
-Image Description
+
 
 Challenges I ran into
 Some challenges include:
